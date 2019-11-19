@@ -2,6 +2,7 @@
 
 
 Russian
+
 Решение проблемы с мерцанием
  
 Необходимо просто подключить модуль к проекту.
@@ -9,6 +10,7 @@ Russian
 
 
 English
+
 Reduce the flickering
 
 Just add unit to your project.
